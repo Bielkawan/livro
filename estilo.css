@@ -1,0 +1,37 @@
+@charsetUTF8;
+ 
+div {
+    text-align: center;
+    border-top: 1px solid #d5d5d5;
+    padding: 20px;
+}
+
+.capa {
+    width: 300px auto ;
+    height: 300px;
+}
+
+p {
+    font-family: 'Tahoma', sans-serif;
+    line-height: 25px;
+    margin: 15px auto 30px auto;
+    max-width: 600px ;
+}
+
+span {
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #49b970;
+    color: aliceblue;
+    padding: 10px 30px;
+    border-radius: 20px;
+    box-shadow: 20px black;
+}
+ img {
+    max-width: 300PX ;
+    max-height: 400PX ;
+    border: 1px solid black;
+ }
